@@ -7,5 +7,5 @@ This plugin allows you to change quiz passwords in Moodle using specified settin
 - Serial number: Serial number for the plugin.
 
 ## Developer
-Mawan A. Nugroho
-https://www.mawan.net
+Mawan A. Nugroho 
+https://www.mmqpc.mawan.net
